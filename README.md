@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Karendiaz97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning un poco del mundo del desarrollo web
+- 📫 How to reach me karenluciladiaz@gmail.com
 
 <!---
 Karendiaz97/Karendiaz97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Hola soy @Karendiaz97
-Actualmente estoy aprendiendo un poco mas del mundo de la programacion y del desarrollo web
