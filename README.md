@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Karendiaz97
-- 🌱 I’m currently learning un poco del mundo del desarrollo web
 - 📫 How to reach me karenluciladiaz@gmail.com
 
 <!---
